@@ -1,5 +1,7 @@
 # OZEKonkurs
 Praca (nie skończona) na konkurs OZE
 
-Pliki oraz foldery które należy pobrać aby aplikacja działała:
-![](./zdj.png)
+Aby uruchomić aplikacje należy:
+1.Pobrać wszystkie pliki jak archwium .zip
+2.Wypokować pliki do folderu
+3.Uruchomić OZE.exe
